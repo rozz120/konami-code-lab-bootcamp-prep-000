@@ -26,7 +26,7 @@ function init() {
 
 function onKeyDownHandler(e)
 {
-  init()
+  
   const key = e.key;
   
   if(key === codes[index])
